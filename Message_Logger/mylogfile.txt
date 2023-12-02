@@ -1,0 +1,10 @@
+Custom file name log message 2.
+Custom file name log message 2.
+Custom file name log message 1.
+Custom file name log message 1.
+Custom file name log message 1.
+Custom file name log message 1.
+Logging to both the console and a file from o2.
+Custom file name log message 1.
+Logging to both the console and a file from o2.
+Logging to both the console and a file from o3.

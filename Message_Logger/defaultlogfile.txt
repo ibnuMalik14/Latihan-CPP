@@ -1,0 +1,9 @@
+Default file name log message 1.
+Default file name log message 1.
+Default file name log message 1.
+Default file name log message 1.
+Default file name log message 1.
+Default file name log message 1.
+Logging to both the console and a file from o1.
+Default file name log message 1.
+Logging to both the console and a file from o1.
